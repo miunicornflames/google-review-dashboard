@@ -1,0 +1,1013 @@
+[
+  {
+    "company": "1 Bold Step",
+    "place_id": "ChIJj6vmIiStGYgRKypR2I4PyYQ",
+    "maps_url": "https://maps.google.com/?cid=9568195989514299947",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJj6vmIiStGYgRKypR2I4PyYQ",
+    "rating": 5,
+    "reviews": 31,
+    "address": "1255 Front Ave NW, Grand Rapids, MI 49504, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Rcostie Costie"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "3DXTECH",
+    "place_id": "ChIJrb5OWyy0GYgRA4v7UOPGgno",
+    "maps_url": "https://maps.google.com/?cid=8827836899218131715",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJrb5OWyy0GYgRA4v7UOPGgno",
+    "rating": 4.1,
+    "reviews": 17,
+    "address": "904 36th St SE, Grand Rapids, MI 49508, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Luke Edington"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "AEBetancourt",
+    "place_id": "ChIJ7f2pzV2tGYgRVTrk5MJbwR8",
+    "maps_url": "https://maps.google.com/?cid=2288210978302868053",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ7f2pzV2tGYgRVTrk5MJbwR8",
+    "rating": 5,
+    "reviews": 12,
+    "address": "408 Broadway Ave NW 3rd Floor, Grand Rapids, MI 49504, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Courtney Schievink"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "AHC Hospitality",
+    "place_id": "ChIJmbsz89itGYgR5GRwIf8rZoo",
+    "maps_url": "https://maps.google.com/?cid=9972706799636210916",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJmbsz89itGYgR5GRwIf8rZoo",
+    "rating": 4.4,
+    "reviews": 7,
+    "address": "187 Monroe Ave NW, Grand Rapids, MI 49503, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Norina Cadili"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Accenture",
+    "place_id": "ChIJaQlgPKktO4gRe_frkvRxhP8",
+    "maps_url": "https://maps.google.com/?cid=18411966471848327035",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJaQlgPKktO4gRe_frkvRxhP8",
+    "rating": 4.2,
+    "reviews": 9,
+    "address": "1001 Woodward Ave, Detroit, MI 48226, USA",
+    "city": "Detroit",
+    "state": "MI",
+    "contacts": [
+      "Aimee Cicero"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Aclaimant",
+    "place_id": "ChIJy3YVOa4sDogRMA74npQCFKw",
+    "maps_url": "https://maps.google.com/?cid=12399538511403290160",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJy3YVOa4sDogRMA74npQCFKw",
+    "rating": null,
+    "reviews": null,
+    "address": "330 N Wabash Ave 23rd Floor, Chicago, IL 60611, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "David Wald"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "ActiveCampaign",
+    "place_id": "ChIJkRgB86UsDogRisNgvLZzps8",
+    "maps_url": "https://maps.google.com/?cid=14962774040666751882",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJkRgB86UsDogRisNgvLZzps8",
+    "rating": 3.8,
+    "reviews": 100,
+    "address": "1 N Dearborn St 5th floor, Chicago, IL 60602, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "Jason VandeBoom"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Ad Advance",
+    "place_id": "ChIJ6yJ0mIhTrlIRmZZC_ovmBXQ",
+    "maps_url": "https://maps.google.com/?cid=8360341772223813273",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ6yJ0mIhTrlIRmZZC_ovmBXQ",
+    "rating": 4.9,
+    "reviews": 80,
+    "address": "325 W 1st St Suite 200, Duluth, MN 55802, USA",
+    "city": "Duluth",
+    "state": "MN",
+    "contacts": [
+      "Joe Shelerud"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Albion College",
+    "place_id": "ChIJB6ux9w9FPYgRWj5Ptc84xTk",
+    "maps_url": "https://maps.google.com/?cid=4162795895325146714",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJB6ux9w9FPYgRWj5Ptc84xTk",
+    "rating": 4.5,
+    "reviews": 156,
+    "address": "611 E Porter St, Albion, MI 49224, USA",
+    "city": "Albion",
+    "state": "MI",
+    "contacts": [
+      "Jrushton Rushton"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "AllOne Health",
+    "place_id": "ChIJ7cWK5z9VGIgR-lU2Om1E2XE",
+    "maps_url": "https://maps.google.com/?cid=8203663432150832634",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ7cWK5z9VGIgR-lU2Om1E2XE",
+    "rating": 3.4,
+    "reviews": 5,
+    "address": "2025 E Beltline Ave SE STE #209, Grand Rapids, MI 49546, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Kelly Gonzalez"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Allstate",
+    "place_id": "ChIJ7YHxzXKlGYgRQScjVO7UnD4",
+    "maps_url": "https://maps.google.com/?cid=4511715046797289281",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ7YHxzXKlGYgRQScjVO7UnD4",
+    "rating": 4.7,
+    "reviews": 304,
+    "address": "0-81, Lake Michigan Dr Ste 120, Grand Rapids, MI 49534, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Brett Mosher"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Ally Logistics",
+    "place_id": "ChIJtbNhjm-2GYgRiQnoT_Z8fEI",
+    "maps_url": "https://maps.google.com/?cid=4790841500959771017",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJtbNhjm-2GYgRiQnoT_Z8fEI",
+    "rating": 3.5,
+    "reviews": 257,
+    "address": "1090 36th St SE STE 628, Grand Rapids, MI 49508, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Nick Vondra"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Alston & Bird",
+    "place_id": "ChIJ5fLnelsE9YgRHMX0yCGUwDg",
+    "maps_url": "https://maps.google.com/?cid=13679517127116814113",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ5fLnelsE9YgRHMX0yCGUwDg",
+    "rating": 4,
+    "reviews": 13,
+    "address": "1201 W Peachtree St NW #4900, Atlanta, GA 30309, USA",
+    "city": "Atlanta",
+    "state": "GA",
+    "contacts": [
+      "Lindsey Nelms"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Altair Advisers",
+    "place_id": "ChIJI6xvH7ksDogRhYGGEFhaykU",
+    "maps_url": "https://maps.google.com/?cid=5028931268193452421",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJI6xvH7ksDogRhYGGEFhaykU",
+    "rating": null,
+    "reviews": null,
+    "address": "225 W Washington St #2400, Chicago, IL 60606, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "Anna Nichols"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "American Family Insurance",
+    "place_id": "ChIJPWxb0892P4gRp7NdwApWBes",
+    "maps_url": "https://maps.google.com/?cid=16935036577973646247",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJPWxb0892P4gRp7NdwApWBes",
+    "rating": 3.6,
+    "reviews": 188,
+    "address": "6000 American Pkwy, Madison, WI 53783, USA",
+    "city": "Madison",
+    "state": "WI",
+    "contacts": [
+      "Stacy Heuer",
+      "Crystal Audrick-Files"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "American Heart Association",
+    "place_id": "ChIJH9EtYXJNGIgRN1ASfoBJbpo",
+    "maps_url": "https://maps.google.com/?cid=11127912545498845239",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJH9EtYXJNGIgRN1ASfoBJbpo",
+    "rating": 5,
+    "reviews": 3,
+    "address": "3940 Peninsular Dr SE # 180, Grand Rapids, MI 49546, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Joslyn Hazard"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "American Society of Safety Professionals (ASSP)",
+    "place_id": "ChIJaYwEDCAIXUARlg_iVMuo3j0",
+    "maps_url": "https://maps.google.com/?cid=4458186272399298454",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJaYwEDCAIXUARlg_iVMuo3j0",
+    "rating": 4.1,
+    "reviews": 9,
+    "address": "520 N Northwest Hwy, Park Ridge, IL 60068, USA",
+    "city": "Park Ridge",
+    "state": "IL",
+    "contacts": [
+      "Lauren Kalal"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Amtivo Group",
+    "place_id": "ChIJpe-VzVexGYgRM56oTS_SEi0",
+    "maps_url": "https://maps.google.com/?cid=3247889381895740979",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJpe-VzVexGYgRM56oTS_SEi0",
+    "rating": 5,
+    "reviews": 1,
+    "address": "5281 Clyde Park Ave SW, Wyoming, MI 49509, USA",
+    "city": "Wyoming",
+    "state": "MI",
+    "contacts": [
+      "Mike Tims"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Apple",
+    "place_id": "ChIJBRlLGTlNGIgRykBxqASpt00",
+    "maps_url": "https://maps.google.com/?cid=5600130499129458890",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJBRlLGTlNGIgRykBxqASpt00",
+    "rating": 3.6,
+    "reviews": 1157,
+    "address": "3195 28th St SE Suite D114A, Grand Rapids, MI 49512, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Troy Monken"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Aptive Resources",
+    "place_id": "ChIJiz2T-2upGYgRyV3ekPdM7Io",
+    "maps_url": "https://maps.google.com/?cid=10010460697908895177",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJiz2T-2upGYgRyV3ekPdM7Io",
+    "rating": 4.4,
+    "reviews": 3500,
+    "address": "4671 Alpine Ave NW, Comstock Park, MI 49321, USA",
+    "city": "Comstock Park",
+    "state": "MI",
+    "contacts": [
+      "Charles Martin"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "ArganoInterRel Consulting",
+    "place_id": "ChIJS17Z6IcjTIYRBETobIKqIZY",
+    "maps_url": "https://maps.google.com/?cid=2509723499009508412",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJS17Z6IcjTIYRBETobIKqIZY",
+    "rating": 4,
+    "reviews": 11,
+    "address": "6111 W Plano Pkwy Suite 1500, Plano, TX 75093, USA",
+    "city": "Plano",
+    "state": "TX",
+    "contacts": [
+      "Brianna Morris"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Armstrong International \u2013 Intelligent Solutions in Steam",
+    "place_id": "ChIJYU7gRgcHF4gRMgtipqHE4Q0",
+    "maps_url": "https://maps.google.com/?cid=2075106517846206446",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJYU7gRgcHF4gRMgtipqHE4Q0",
+    "rating": 4,
+    "reviews": 12,
+    "address": "816 Maple St, Three Rivers, MI 49093, USA",
+    "city": "Three Rivers",
+    "state": "MI",
+    "contacts": [
+      "Jamie Bloss"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Ascent",
+    "place_id": "ChIJ5XH2g3KtGYgRmkqECmbkp1s",
+    "maps_url": "https://maps.google.com/?cid=6604498505476360858",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ5XH2g3KtGYgRmkqECmbkp1s",
+    "rating": 5,
+    "reviews": 4,
+    "address": "333 Bridge St NW #100, Grand Rapids, MI 49504, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Philippe Brou"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Association for Student Conduct Administration",
+    "place_id": "ChIJkbfiFiroIogRVJVZRj6dJgE",
+    "maps_url": "https://maps.google.com/?cid=902638374074177973",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJkbfiFiroIogRVJVZRj6dJgE",
+    "rating": null,
+    "reviews": null,
+    "address": "Student Services Building, Michigan State University, 556 E Circle Dr #237, East Lansing, MI 48824, USA",
+    "city": "East Lansing",
+    "state": "MI",
+    "contacts": [
+      "Angela Powell"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "AssuredPartners",
+    "place_id": "ChIJ-ddOtw63JIgRTXCDPzqGnaw",
+    "maps_url": "https://maps.google.com/?cid=12438245330598981709",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ-ddOtw63JIgRTXCDPzqGnaw",
+    "rating": 4,
+    "reviews": 4,
+    "address": "423 N Main St #100, Royal Oak, MI 48067, USA",
+    "city": "Royal Oak",
+    "state": "MI",
+    "contacts": [
+      "Emma Woods"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Atomic Object",
+    "place_id": "ChIJN-unmp-tGYgR_pfxXlk9YLg",
+    "maps_url": "https://maps.google.com/?cid=13285686354797238270",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJN-unmp-tGYgR_pfxXlk9YLg",
+    "rating": 4.7,
+    "reviews": 32,
+    "address": "1034 Wealthy St SE, Grand Rapids, MI 49506, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Carl Erickson"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Augusto Digital",
+    "place_id": "ChIJB6bMMpetGYgRPITpqjlU1CI",
+    "maps_url": "https://maps.google.com/?cid=2509723499009508412",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJB6bMMpetGYgRPITpqjlU1CI",
+    "rating": 5,
+    "reviews": 9,
+    "address": "109 Michigan St NW Suite 427, Grand Rapids, MI 49503, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Brian Anderson"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Autobooks",
+    "place_id": "ChIJl-FoVz3EJIgRy3kYhieNhik",
+    "maps_url": "https://maps.google.com/?cid=2992234203327265227",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJl-FoVz3EJIgRy3kYhieNhik",
+    "rating": 3,
+    "reviews": 126,
+    "address": "1505 Woodward Ave Floor 8, Detroit, MI 48226, USA",
+    "city": "Detroit",
+    "state": "MI",
+    "contacts": [
+      "Justin Dickow"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Auxo",
+    "place_id": "ChIJVVUVnMWtGYgRuk_ys-YC190",
+    "maps_url": "https://maps.google.com/?cid=15985248592259600314",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJVVUVnMWtGYgRuk_ys-YC190",
+    "rating": null,
+    "reviews": null,
+    "address": "38 Commerce Ave SW, Grand Rapids, MI 49503, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Brandon Walsh"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "BKD CPAs & Advisors",
+    "place_id": "ChIJWzy0Mgu8GYgR6L3BlnTfqOA",
+    "maps_url": "https://maps.google.com/?cid=16188434552421727720",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJWzy0Mgu8GYgR6L3BlnTfqOA",
+    "rating": 4.4,
+    "reviews": 7,
+    "address": "6449 28th Ave, Hudsonville, MI 49426, USA",
+    "city": "Hudsonville",
+    "state": "MI",
+    "contacts": [
+      "Tiffany Vanhook"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "BNG Team",
+    "place_id": "ChIJ-QW8rz3SJIgR3U1qo_rnn9c",
+    "maps_url": "https://maps.google.com/?cid=15537392303120993757",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ-QW8rz3SJIgR3U1qo_rnn9c",
+    "rating": 4.3,
+    "reviews": 16,
+    "address": "3611 Carpenter Ave #9, Detroit, MI 48212, USA",
+    "city": "Detroit",
+    "state": "MI",
+    "contacts": [
+      "Leo Hennessey"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Baker Book House",
+    "place_id": "ChIJ53yaxgxNGIgROe300ifYABw",
+    "maps_url": "https://maps.google.com/?cid=2017850298616573241",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ53yaxgxNGIgROe300ifYABw",
+    "rating": 4.8,
+    "reviews": 1088,
+    "address": "2768 E Paris Ave SE, Grand Rapids, MI 49546, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Linda Chase"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Bamboo Detroit",
+    "place_id": "ChIJSX2EuC0tO4gRz2zTAK1xapA",
+    "maps_url": "https://maps.google.com/?cid=10406254876850089167",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJSX2EuC0tO4gRz2zTAK1xapA",
+    "rating": 4.7,
+    "reviews": 146,
+    "address": "1420 Washington Blvd #301, Detroit, MI 48226, USA",
+    "city": "Detroit",
+    "state": "MI",
+    "contacts": [
+      "Amanda Lewan"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Become Solutions",
+    "place_id": "ChIJP9UfbN0sDogR28vudbwHgY8",
+    "maps_url": "https://maps.google.com/?cid=10340554725433199579",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJP9UfbN0sDogR28vudbwHgY8",
+    "rating": 5,
+    "reviews": 2,
+    "address": "910 W Van Buren St ste 100-133, Chicago, IL 60607, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "Jacob Sabourin"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Bectran, Inc.",
+    "place_id": "ChIJ-0EsXcevD4gRourJ4zLRGEQ",
+    "maps_url": "https://maps.google.com/?cid=4906901810520386210",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ-0EsXcevD4gRourJ4zLRGEQ",
+    "rating": 4.3,
+    "reviews": 6,
+    "address": "1515 Woodfield Rd # 600, Schaumburg, IL 60173, USA",
+    "city": "Schaumburg",
+    "state": "IL",
+    "contacts": [
+      "Louis Ifeguni"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "BenchPrep",
+    "place_id": "ChIJA3rdYDPTD4gRqAget4vskYM",
+    "maps_url": "https://maps.google.com/?cid=9480618775408412840",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJA3rdYDPTD4gRqAget4vskYM",
+    "rating": 4.6,
+    "reviews": 10,
+    "address": "1449 S Michigan Ave STE 13332, Chicago, IL 60605, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "Ashish Rangnekar"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "BetaBlox",
+    "place_id": "ChIJr-3dSoizGYgRtyIM7pJOcm0",
+    "maps_url": "https://maps.google.com/?cid=7886452290445124279",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJr-3dSoizGYgRtyIM7pJOcm0",
+    "rating": 4,
+    "reviews": 4,
+    "address": "4131 Roger B Chaffee Memorial Blvd SE, Grand Rapids, MI 49548, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Cassie Cregger"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Big Lake Brewing",
+    "place_id": "ChIJYeeXTf2MGYgRpOmM9rDxOB8",
+    "maps_url": "https://maps.google.com/?cid=2249813756224530852",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJYeeXTf2MGYgRpOmM9rDxOB8",
+    "rating": 4.5,
+    "reviews": 1629,
+    "address": "13 W 7th St, Holland, MI 49423, USA",
+    "city": "Holland",
+    "state": "MI",
+    "contacts": [
+      "Jeff Buckman"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "BigTime Software",
+    "place_id": "ChIJiVZqVgAtDogRLsWay1JxMgc",
+    "maps_url": "https://maps.google.com/?cid=518601507518203182",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJiVZqVgAtDogRLsWay1JxMgc",
+    "rating": null,
+    "reviews": null,
+    "address": "550 W Van Buren St, Chicago, IL 60607, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "Nicole Soltes"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Bio-Rad Laboratories",
+    "place_id": "ChIJJdbu86CsJIgRidyPYGeMGh0",
+    "maps_url": "https://maps.google.com/?cid=2097142952123948169",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJJdbu86CsJIgRidyPYGeMGh0",
+    "rating": 4.3,
+    "reviews": 3,
+    "address": "100 Phoenix Dr Suite 321 Suite W180, Ann Arbor, MI 48108, USA",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "contacts": [
+      "Jadine Lai"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Birdeye",
+    "place_id": "ChIJJbeJpZuiUE0R2H9wSLi80Uw",
+    "maps_url": "https://maps.google.com/?cid=5535412916690386904",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJJbeJpZuiUE0R2H9wSLi80Uw",
+    "rating": 4.7,
+    "reviews": 15,
+    "address": "85 Stanton Ave, Mohawk, MI 49950, USA",
+    "city": "Mohawk",
+    "state": "MI",
+    "contacts": [
+      "Lisa Reid"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "BizStream",
+    "place_id": "ChIJicX9EHGYGYgRj-J0LieNnhQ",
+    "maps_url": "https://maps.google.com/?cid=1485780126501495439",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJicX9EHGYGYgRj-J0LieNnhQ",
+    "rating": 5,
+    "reviews": 15,
+    "address": "11480 53rd Ave A, Allendale, MI 49401, USA",
+    "city": "Allendale",
+    "state": "MI",
+    "contacts": [
+      "Michelle Lentz"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Bloom Credit",
+    "place_id": "ChIJAQAAAHyxGYgRlntqIOjphFo",
+    "maps_url": "https://maps.google.com/?cid=6522595343524854678",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJAQAAAHyxGYgRlntqIOjphFo",
+    "rating": 3.2,
+    "reviews": 42,
+    "address": "1414 Burton St SW, Wyoming, MI 49509, USA",
+    "city": "Wyoming",
+    "state": "MI",
+    "contacts": [
+      "Christian Widhalm"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Bold Orange",
+    "place_id": "ChIJK2PdeGB5GYgR1aVPpJWnatc",
+    "maps_url": "https://maps.google.com/?cid=15522403326834484693",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJK2PdeGB5GYgR1aVPpJWnatc",
+    "rating": 5,
+    "reviews": 25,
+    "address": "169 Park St., Fruitport, MI 49415, USA",
+    "city": "Fruitport",
+    "state": "MI",
+    "contacts": [
+      "Alicia Aronson"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "BrainGu",
+    "place_id": "ChIJzcPRCJCtGYgRGbnD456Z4l0",
+    "maps_url": "https://maps.google.com/?cid=6765138497969043737",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJzcPRCJCtGYgRGbnD456Z4l0",
+    "rating": null,
+    "reviews": null,
+    "address": "934 Scribner Ave NW, Grand Rapids, MI 49504, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Sharrod Hines"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Buildertrend",
+    "place_id": "ChIJMY3dW3yoJIgRAN8QWwG92iQ",
+    "maps_url": "https://maps.google.com/?cid=2655642743808777984",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJMY3dW3yoJIgRAN8QWwG92iQ",
+    "rating": 5,
+    "reviews": 2,
+    "address": "51740 Grand River Ave, Wixom, MI 48393, USA",
+    "city": "Wixom",
+    "state": "MI",
+    "contacts": [
+      "Eric Fischer"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Burnips Equipment Company",
+    "place_id": "ChIJEya4lkPBGYgRzwHp5whtg-A",
+    "maps_url": "https://maps.google.com/?cid=11138060127698346260",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJEya4lkPBGYgRzwHp5whtg-A",
+    "rating": 4.6,
+    "reviews": 189,
+    "address": "3073 142nd Ave, Dorr, MI 49323, USA",
+    "city": "Dorr",
+    "state": "MI",
+    "contacts": [
+      "Dan Fisher"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Bushel",
+    "place_id": "ChIJpUmTAxrjG4gRVEjj0VAzYQk",
+    "maps_url": "https://maps.google.com/?cid=675877841294018644",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJpUmTAxrjG4gRVEjj0VAzYQk",
+    "rating": 4.9,
+    "reviews": 82,
+    "address": "2374 M-20, New Era, MI 49446, USA",
+    "city": "New Era",
+    "state": "MI",
+    "contacts": [
+      "Jeff Monschke"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Business Breakthrough Advisors",
+    "place_id": "ChIJS-KTmM-tGYgRiAQ07ZGDy1w",
+    "maps_url": "https://maps.google.com/?cid=6686582734534739080",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJS-KTmM-tGYgRiAQ07ZGDy1w",
+    "rating": null,
+    "reviews": null,
+    "address": "250 Monroe Ave NW, Grand Rapids, MI 49503, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Dale Gibbons"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "C2 Experience",
+    "place_id": "ChIJL4J_0HmwGYgRfubkLmX1w5k",
+    "maps_url": "https://maps.google.com/?cid=11079969323188807294",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJL4J_0HmwGYgRfubkLmX1w5k",
+    "rating": 5,
+    "reviews": 8,
+    "address": "560 5th St NW Suite 100, Grand Rapids, MI 49504, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Katie Wilkes"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "CANY Capital",
+    "place_id": "ChIJFSRFLDVTGIgRrVvwkytRoMc",
+    "maps_url": "https://maps.google.com/?cid=14384586457428810669",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJFSRFLDVTGIgRrVvwkytRoMc",
+    "rating": 4.9,
+    "reviews": 214,
+    "address": "25 South Division Suite 225, Grand Rapids, MI 49503, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Jesse Lourey"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "CAPITAL IMPACT ADVISORS",
+    "place_id": "ChIJJaXvi28lPYgROFFf9PEdBO4",
+    "maps_url": "https://maps.google.com/?cid=17150866205957902648",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJJaXvi28lPYgROFFf9PEdBO4",
+    "rating": null,
+    "reviews": null,
+    "address": "P. O. Box 1204, Birmingham, MI 48009, USA",
+    "city": "Birmingham",
+    "state": "MI",
+    "contacts": [
+      "Kevin Gately"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "CEVA Logistics",
+    "place_id": "ChIJ9b2AneFOO4gRvQUMP6-6eAs",
+    "maps_url": "https://maps.google.com/?cid=17496100299654705655",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ9b2AneFOO4gRvQUMP6-6eAs",
+    "rating": 4.1,
+    "reviews": 10,
+    "address": "33370 Trade Ctr Dr, Romulus, MI 48174, USA",
+    "city": "Romulus",
+    "state": "MI",
+    "contacts": [
+      "Ahmet Atalay",
+      "Mayuresh Pradhan",
+      "Mitra Partha",
+      "F\u0131rat Y\u0131ld\u0131z",
+      "Mujtaba Ali",
+      "Romain Toutain",
+      "Ganesan Kannan",
+      "Camille Utter",
+      "Suk Sandhu",
+      "Jamie Mu\u00f1oz",
+      "Kyle Sickle",
+      "Soo Yong",
+      "Ganesh Sangar",
+      "Kelvin Chia",
+      "Selva Kumar",
+      "Julian Money",
+      "Simran Singh",
+      "Raymond Lee",
+      "Kristie Strom"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "CU*Answers",
+    "place_id": "ChIJLXTl6N9NGIgRp150eeVkWYo",
+    "maps_url": "https://maps.google.com/?cid=9969110186909261479",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJLXTl6N9NGIgRp150eeVkWYo",
+    "rating": 4.8,
+    "reviews": 16,
+    "address": "6000 28th St SE, Grand Rapids, MI 49546, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Dwordhouse Wordhouse"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Callibrity",
+    "place_id": "ChIJF4XwOaBTQIgR6yW6EBZH58Q",
+    "maps_url": "https://maps.google.com/?cid=14188387311149524459",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJF4XwOaBTQIgR6yW6EBZH58Q",
+    "rating": 4.6,
+    "reviews": 9,
+    "address": "8280 Montgomery Rd, Cincinnati, OH 45236, USA",
+    "city": "Cincinnati",
+    "state": "OH",
+    "contacts": [
+      "Terry Farro"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Campspot",
+    "place_id": "ChIJ_YVT8lCtGYgRxRg_Ztgi6eo",
+    "maps_url": "https://maps.google.com/?cid=16927098987272411333",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ_YVT8lCtGYgRxRg_Ztgi6eo",
+    "rating": 3.3,
+    "reviews": 32,
+    "address": "38 Commerce Ave SW STE 200, Grand Rapids, MI 49503, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Casey Cochran"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Capstone Technologies Group Inc.",
+    "place_id": "ChIJ___PVGDEJIgRGa48EMwK-1c",
+    "maps_url": "https://maps.google.com/?cid=6339672772016123417",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ___PVGDEJIgRGa48EMwK-1c",
+    "rating": null,
+    "reviews": null,
+    "address": "1180 E Big Beaver Rd, Troy, MI 48083, USA",
+    "city": "Troy",
+    "state": "MI",
+    "contacts": [
+      "Brenda Kann",
+      "Michael Kilburn",
+      "Douglas Burge",
+      "Fritz Buglewicz",
+      "Kirk Trofholz"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Cerkl",
+    "place_id": "ChIJz61mZlayQYgRW2KufMsc5AE",
+    "maps_url": "https://maps.google.com/?cid=136265549023699547",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJz61mZlayQYgRW2KufMsc5AE",
+    "rating": 5,
+    "reviews": 5,
+    "address": "11126 Kenwood Rd #201, Blue Ash, OH 45242, USA",
+    "city": "Blue Ash",
+    "state": "OH",
+    "contacts": [
+      "Tarek Kamil"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Chagrinovations",
+    "place_id": "ChIJOUO0IJDyMIgRP2hWl_kTmuI",
+    "maps_url": "https://maps.google.com/?cid=16328385361691961407",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJOUO0IJDyMIgRP2hWl_kTmuI",
+    "rating": null,
+    "reviews": null,
+    "address": "19111 Detroit Rd, Rocky River, OH 44116, USA",
+    "city": "Rocky River",
+    "state": "OH",
+    "contacts": [
+      "Tony DeCarlo"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Challenge Detroit",
+    "place_id": "ChIJiT9-LgbKJIgRb2kbHp2NDxA",
+    "maps_url": "https://maps.google.com/?cid=1157299335212001647",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJiT9-LgbKJIgRb2kbHp2NDxA",
+    "rating": 4.4,
+    "reviews": 39,
+    "address": "17667 Pierson St, Detroit, MI 48219, USA",
+    "city": "Detroit",
+    "state": "MI",
+    "contacts": [
+      "Jason Zogg"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Cherry Health",
+    "place_id": "ChIJaXPAbL2xGYgR4g6rT8dSPAI",
+    "maps_url": "https://maps.google.com/?cid=13243269981080110902",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJaXPAbL2xGYgR4g6rT8dSPAI",
+    "rating": 2.6,
+    "reviews": 130,
+    "address": "2929 Burlingame Ave SW, Wyoming, MI 49509, USA",
+    "city": "Wyoming",
+    "state": "MI",
+    "contacts": [
+      "Tara VanDyke"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Crystal Flash",
+    "place_id": "ChIJYZYNmp-uGYgRBXBtzbz_qqA",
+    "maps_url": "https://maps.google.com/?cid=11577346978474717189",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJYZYNmp-uGYgRBXBtzbz_qqA",
+    "rating": 4,
+    "reviews": 61,
+    "address": "1754 Alpine Ave NW, Grand Rapids, MI 49504, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Scott Miller"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Doeren Mayhew",
+    "place_id": "ChIJD7UD_MStGYgRw8SbS_nzylk",
+    "maps_url": "https://maps.google.com/?cid=6470252066712044739",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJD7UD_MStGYgRw8SbS_nzylk",
+    "rating": 4.9,
+    "reviews": 49,
+    "address": "56 Cesar E. Chavez Ave SW #100, Grand Rapids, MI 49503, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Tabatha Kwaske"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Greenleaf Hospitality Group",
+    "place_id": "ChIJ____-kCdF4gRq0YeUKeNit8",
+    "maps_url": "https://maps.google.com/?cid=16107842766987216555",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ____-kCdF4gRq0YeUKeNit8",
+    "rating": 4.1,
+    "reviews": 10,
+    "address": "100 W Michigan Ave, Kalamazoo, MI 49007, USA",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "contacts": [
+      "Allie Lochart"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Home Pro of West Michigan",
+    "place_id": "ChIJ43jtwtZNGIgRN5Q67CD3gRU",
+    "maps_url": "https://maps.google.com/?cid=2326265258788048312",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ43jtwtZNGIgRN5Q67CD3gRU",
+    "rating": 4.9,
+    "reviews": 507,
+    "address": "2929 Peach Ridge Ave NW, Grand Rapids, MI 49534, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Terry Sullivan"
+    ],
+    "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "K Group Companies",
+    "place_id": "ChIJsT6h6NKtGYgR63Wh2FyEybI",
+    "maps_url": "https://maps.google.com/?cid=12882973743376332267",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJsT6h6NKtGYgR63Wh2FyEybI",
+    "rating": 4.9,
+    "reviews": 47,
+    "address": "678 Front Ave NW Suite 003, Grand Rapids, MI 49504, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [],
+    "enriched_at": "2026-03-14"
+  }
+]

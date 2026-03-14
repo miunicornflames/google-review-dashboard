@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Google Review Dashboard</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f0f2f5; color: #1a1a2e; }
+
+  /* Header */
+  .header { background: #1a1a2e; color: white; padding: 20px 32px; position: sticky; top: 0; z-index: 100; }
+  .header h1 { font-size: 22px; font-weight: 600; margin-bottom: 8px; }
+  .header-stats { display: flex; gap: 24px; align-items: center; flex-wrap: wrap; }
+  .stat { font-size: 14px; opacity: 0.8; }
+  .stat strong { color: #4ade80; opacity: 1; }
+  .progress-bar { flex: 1; min-width: 200px; height: 6px; background: rgba(255,255,255,0.15); border-radius: 3px; overflow: hidden; }
+  .progress-fill { height: 100%; background: #4ade80; border-radius: 3px; transition: width 0.3s; }
+
+  /* Controls */
+  .controls { background: white; padding: 16px 32px; border-bottom: 1px solid #e2e8f0; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; position: sticky; top: 78px; z-index: 99; }
+  .filter-btn { padding: 6px 16px; border: 1px solid #e2e8f0; border-radius: 20px; background: white; cursor: pointer; font-size: 13px; transition: all 0.2s; }
+  .filter-btn.active { background: #1a1a2e; color: white; border-color: #1a1a2e; }
+  .filter-btn:hover { border-color: #1a1a2e; }
+  .search-box { flex: 1; min-width: 200px; padding: 8px 16px; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 14px; outline: none; }
+  .search-box:focus { border-color: #3b82f6; box-shadow: 0 0 0 3px rgba(59,130,246,0.1); }
+  .sort-select { padding: 6px 12px; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 13px; background: white; cursor: pointer; }
+
+  /* Cards grid */
+  .cards { padding: 24px 32px; display: grid; grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 20px; }
+
+  /* Company card */
+  .card { background: white; border-radius: 12px; padding: 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); transition: all 0.2s; border: 2px solid transparent; }
+  .card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.12); }
+  .card.done { opacity: 0.6; border-color: #4ade80; }
+  .card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px; }
+  .company-name { font-size: 18px; font-weight: 600; color: #1a1a2e; }
+  .status-badge { padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600; text-transform: uppercase; }
+  .status-badge.pending { background: #fef3c7; color: #92400e; }
+  .status-badge.done { background: #d1fae5; color: #065f46; }
+  .card-meta { display: flex; gap: 16px; margin-bottom: 12px; font-size: 13px; color: #64748b; }
+  .card-meta .location { }
+  .stars { color: #f59e0b; letter-spacing: 1px; }
+  .review-count { color: #94a3b8; font-size: 12px; }
+  .contacts-label { font-size: 12px; color: #94a3b8; margin-bottom: 4px; }
+  .contacts-list { font-size: 13px; color: #475569; margin-bottom: 12px; }
+
+  /* Review textarea */
+  .review-textarea { width: 100%; min-height: 100px; padding: 12px; border: 1px solid #e2e8f0; border-radius: 8px; font-family: inherit; font-size: 14px; line-height: 1.5; resize: vertical; outline: none; transition: border-color 0.2s; }
+  .review-textarea:focus { border-color: #3b82f6; box-shadow: 0 0 0 3px rgba(59,130,246,0.1); }
+
+  /* Buttons */
+  .card-actions { display: flex; gap: 10px; margin-top: 14px; }
+  .btn { padding: 10px 20px; border: none; border-radius: 8px; font-size: 14px; font-weight: 500; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; gap: 6px; }
+  .btn-primary { background: #2563eb; color: white; flex: 1; justify-content: center; }
+  .btn-primary:hover { background: #1d4ed8; }
+  .btn-primary.copied { background: #16a34a; }
+  .btn-done { background: #f1f5f9; color: #475569; }
+  .btn-done:hover { background: #e2e8f0; }
+  .btn-done.is-done { background: #d1fae5; color: #065f46; }
+  .btn-undo { background: #fef2f2; color: #dc2626; font-size: 12px; padding: 6px 12px; }
+  .btn-undo:hover { background: #fee2e2; }
+
+  /* Empty state */
+  .empty-state { text-align: center; padding: 80px 32px; color: #94a3b8; }
+  .empty-state h2 { font-size: 20px; margin-bottom: 8px; color: #64748b; }
+
+  /* Loading */
+  .loading { text-align: center; padding: 80px; color: #94a3b8; }
+
+  @media (max-width: 600px) {
+    .cards { grid-template-columns: 1fr; padding: 16px; }
+    .header, .controls { padding-left: 16px; padding-right: 16px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Google Review Dashboard</h1>
+  <div class="header-stats">
+    <span class="stat"><strong id="done-count">0</strong> of <strong id="total-count">0</strong> reviews posted</span>
+    <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+  </div>
+</div>
+
+<div class="controls">
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="pending">Pending</button>
+  <button class="filter-btn" data-filter="done">Done</button>
+  <input type="text" class="search-box" id="search-box" placeholder="Search companies...">
+  <select class="sort-select" id="sort-select">
+    <option value="company">Sort: Company</option>
+    <option value="rating-desc">Sort: Rating (high first)</option>
+    <option value="rating-asc">Sort: Rating (low first)</option>
+    <option value="city">Sort: City</option>
+    <option value="reviews-desc">Sort: Reviews (most first)</option>
+  </select>
+</div>
+
+<div class="cards" id="cards-container">
+  <div class="loading">Loading review data...</div>
+</div>
+
+<script>
+// --- State ---
+let companies = [];
+let filter = 'all';
+let searchTerm = '';
+let sortBy = 'company';
+
+// --- LocalStorage for tracking done status ---
+function getDoneSet() {
+  try {
+    return new Set(JSON.parse(localStorage.getItem('reviewsDone') || '[]'));
+  } catch { return new Set(); }
+}
+
+function saveDoneSet(doneSet) {
+  localStorage.setItem('reviewsDone', JSON.stringify([...doneSet]));
+}
+
+function isDone(placeId) {
+  return getDoneSet().has(placeId);
+}
+
+function markDone(placeId) {
+  const s = getDoneSet();
+  s.add(placeId);
+  saveDoneSet(s);
+  render();
+}
+
+function markUndone(placeId) {
+  const s = getDoneSet();
+  s.delete(placeId);
+  saveDoneSet(s);
+  render();
+}
+
+// --- Review templates ---
+const templates = [
+  (c) => `I have had the chance to work with ${c.company} in ${c.city} and they consistently deliver quality results. Professional team, responsive communication. Would recommend for anyone in ${c.city} looking for reliable service.`,
+  (c) => `${c.company} in ${c.city} has been great to work with. Good communication, solid follow-through, and they genuinely care about quality.`,
+  (c) => `Positive experience working with ${c.company}. Their team in ${c.city} is knowledgeable and easy to collaborate with. Recommend.`,
+  (c) => `${c.company} has a strong presence in ${c.city}. Professional operation, good people, and they deliver on what they promise.`,
+  (c) => `Good experience with ${c.company} in ${c.city}. They are professional, responsive, and easy to work with. Would recommend to others in the area.`,
+];
+
+function getTemplate(company, index) {
+  return templates[index % templates.length](company);
+}
+
+// --- Stars rendering ---
+function renderStars(rating) {
+  if (!rating) return '<span class="stars">No rating</span>';
+  const full = Math.floor(rating);
+  const half = rating % 1 >= 0.3 ? 1 : 0;
+  const empty = 5 - full - half;
+  return '<span class="stars">' +
+    '\u2605'.repeat(full) +
+    (half ? '\u00BD' : '') +
+    '\u2606'.repeat(empty) +
+    '</span> <span class="review-count">' + rating.toFixed(1) +
+    (company.reviews ? ` (${company.reviews} reviews)` : '') +
+    '</span>';
+}
+
+// --- Copy & Open split-screen ---
+function copyAndOpen(placeId) {
+  const textarea = document.getElementById('review-' + placeId);
+  const text = textarea.value;
+  const url = 'https://search.google.com/local/writereview?placeid=' + placeId;
+
+  navigator.clipboard.writeText(text).then(() => {
+    // Visual feedback
+    const btn = document.getElementById('btn-' + placeId);
+    btn.textContent = '\u2713 Copied! Opening...';
+    btn.classList.add('copied');
+
+    // Open Google review page in right half of screen
+    const w = Math.floor(screen.width / 2);
+    const h = screen.height;
+    window.open(url, '_blank', `width=${w},height=${h},left=${w},top=0,menubar=no,toolbar=no`);
+
+    // Try to resize dashboard to left half (may be blocked by browser)
+    try {
+      window.resizeTo(w, h);
+      window.moveTo(0, 0);
+    } catch(e) {}
+
+    // Reset button after 3s
+    setTimeout(() => {
+      btn.textContent = '\u{1F4CB} Copy & Post Review';
+      btn.classList.remove('copied');
+    }, 3000);
+  });
+}
+
+// --- Render ---
+function render() {
+  const container = document.getElementById('cards-container');
+  const doneSet = getDoneSet();
+
+  let filtered = companies.filter(c => {
+    if (filter === 'pending' && doneSet.has(c.place_id)) return false;
+    if (filter === 'done' && !doneSet.has(c.place_id)) return false;
+    if (searchTerm) {
+      const term = searchTerm.toLowerCase();
+      return c.company.toLowerCase().includes(term) ||
+             c.city.toLowerCase().includes(term) ||
+             (c.contacts || []).some(n => n.toLowerCase().includes(term));
+    }
+    return true;
+  });
+
+  // Sort
+  filtered.sort((a, b) => {
+    switch(sortBy) {
+      case 'company': return a.company.localeCompare(b.company);
+      case 'rating-desc': return (b.rating || 0) - (a.rating || 0);
+      case 'rating-asc': return (a.rating || 0) - (b.rating || 0);
+      case 'city': return (a.city || '').localeCompare(b.city || '');
+      case 'reviews-desc': return (b.reviews || 0) - (a.reviews || 0);
+      default: return 0;
+    }
+  });
+
+  // Update stats
+  const doneCount = companies.filter(c => doneSet.has(c.place_id)).length;
+  document.getElementById('done-count').textContent = doneCount;
+  document.getElementById('total-count').textContent = companies.length;
+  const pct = companies.length ? (doneCount / companies.length * 100) : 0;
+  document.getElementById('progress-fill').style.width = pct + '%';
+
+  if (filtered.length === 0) {
+    container.innerHTML = '<div class="empty-state"><h2>No companies match</h2><p>Try a different filter or search term.</p></div>';
+    return;
+  }
+
+  container.innerHTML = filtered.map((c, i) => {
+    const done = doneSet.has(c.place_id);
+    const stars = c.rating ? '\u2605'.repeat(Math.floor(c.rating)) + (c.rating % 1 >= 0.3 ? '\u00BD' : '') : 'No rating';
+    const reviewInfo = c.reviews ? `(${c.reviews} reviews)` : '';
+    const draft = getTemplate(c, i);
+    const contactsHtml = (c.contacts && c.contacts.length)
+      ? `<div class="contacts-label">Your contacts:</div><div class="contacts-list">${c.contacts.join(', ')}</div>`
+      : '';
+
+    return `
+      <div class="card ${done ? 'done' : ''}" data-place-id="${c.place_id}">
+        <div class="card-header">
+          <div class="company-name">${c.company}</div>
+          <span class="status-badge ${done ? 'done' : 'pending'}">${done ? 'Done' : 'Pending'}</span>
+        </div>
+        <div class="card-meta">
+          <span class="location">${c.city || ''}, ${c.state || ''}</span>
+          <span><span class="stars">${stars}</span> <span class="review-count">${c.rating ? c.rating.toFixed(1) : ''} ${reviewInfo}</span></span>
+        </div>
+        ${contactsHtml}
+        <textarea class="review-textarea" id="review-${c.place_id}">${draft}</textarea>
+        <div class="card-actions">
+          <button class="btn btn-primary" id="btn-${c.place_id}" onclick="copyAndOpen('${c.place_id}')">
+            \u{1F4CB} Copy & Post Review
+          </button>
+          ${done
+            ? `<button class="btn btn-undo" onclick="markUndone('${c.place_id}')">Undo</button>`
+            : `<button class="btn btn-done" onclick="markDone('${c.place_id}')">Mark Done</button>`
+          }
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+// --- Event listeners ---
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    filter = btn.dataset.filter;
+    render();
+  });
+});
+
+document.getElementById('search-box').addEventListener('input', (e) => {
+  searchTerm = e.target.value;
+  render();
+});
+
+document.getElementById('sort-select').addEventListener('change', (e) => {
+  sortBy = e.target.value;
+  render();
+});
+
+// --- Load data ---
+fetch('review_data.json')
+  .then(r => r.json())
+  .then(data => {
+    companies = data;
+    render();
+  })
+  .catch(err => {
+    document.getElementById('cards-container').innerHTML =
+      '<div class="empty-state"><h2>No review data found</h2><p>Run the enricher to generate review_data.json</p></div>';
+  });
+</script>
+
+</body>
+</html>
