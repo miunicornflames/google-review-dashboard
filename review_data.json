@@ -406,6 +406,21 @@
     "enriched_at": "2026-03-14"
   },
   {
+    "company": "Atomix - Digital Communication Agency",
+    "place_id": "ChIJ24Pi7Y_TJIgRA5osAQwuh-A",
+    "maps_url": "https://maps.google.com/?cid=16178950815445981699",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ24Pi7Y_TJIgRA5osAQwuh-A",
+    "rating": null,
+    "reviews": null,
+    "address": "2362 Russell St STE 301, Detroit, MI 48207, USA",
+    "city": "Detroit",
+    "state": "MI",
+    "contacts": [
+      "Drake Meyer"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
     "company": "Augusto Digital",
     "place_id": "ChIJB6bMMpetGYgRPITpqjlU1CI",
     "maps_url": "https://maps.google.com/?cid=2509723499009508412",
@@ -1149,6 +1164,21 @@
     "enriched_at": "2026-03-14"
   },
   {
+    "company": "Cruz Foam",
+    "place_id": "ChIJFTbZuNuxGYgRXN-oz2Tv8gg",
+    "maps_url": "https://maps.google.com/?cid=644840912927121244",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJFTbZuNuxGYgRXN-oz2Tv8gg",
+    "rating": 4.5,
+    "reviews": 11,
+    "address": "1425 Burlingame Ave SW, Wyoming, MI 49509, USA",
+    "city": "Wyoming",
+    "state": "MI",
+    "contacts": [
+      "Aaron Huang"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
     "company": "Crystal Flash",
     "place_id": "ChIJYZYNmp-uGYgRBXBtzbz_qqA",
     "maps_url": "https://maps.google.com/?cid=11577346978474717189",
@@ -1209,6 +1239,187 @@
     "enriched_at": "2026-03-14"
   },
   {
+    "company": "DTE Energy",
+    "place_id": "ChIJ26WuJ-etGYgRnb7j6sc2XUE",
+    "maps_url": "https://maps.google.com/?cid=4709981017566592669",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ26WuJ-etGYgRnb7j6sc2XUE",
+    "rating": 3.4,
+    "reviews": 186,
+    "address": "444 Wealthy St SW, Grand Rapids, MI 49503, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Victor Allen"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "DTN Management",
+    "place_id": "ChIJZx7DN4_pIogRJjG956RaobI",
+    "maps_url": "https://maps.google.com/?cid=12871668874310660390",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJZx7DN4_pIogRJjG956RaobI",
+    "rating": 3.7,
+    "reviews": 675,
+    "address": "2502 Lake Lansing Rd, Lansing, MI 48912, USA",
+    "city": "Lansing",
+    "state": "MI",
+    "contacts": [
+      "Nina Vestal"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "Da Vinci Waldorf School",
+    "place_id": "ChIJvQkuWXAjPYgRJr3fkpnnqXw",
+    "maps_url": "https://maps.google.com/?cid=8982965578547313958",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJvQkuWXAjPYgRJr3fkpnnqXw",
+    "rating": null,
+    "reviews": null,
+    "address": "2885 Springport Rd, Jackson, MI 49202, USA",
+    "city": "Jackson",
+    "state": "MI",
+    "contacts": [
+      "Morgan Branson"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "Dana",
+    "place_id": "ChIJ9ZJRhX7aJIgR-NXq-7y-l6s",
+    "maps_url": "https://maps.google.com/?cid=12364561020858586616",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ9ZJRhX7aJIgR-NXq-7y-l6s",
+    "rating": 3.1,
+    "reviews": 68,
+    "address": "28201 Van Dyke Ave, Warren, MI 48093, USA",
+    "city": "Warren",
+    "state": "MI",
+    "contacts": [
+      "Terry Zhang",
+      "Cristina Ib\u00e1\u00f1ez"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "Darley Neighbourhood House",
+    "place_id": "ChIJt4PnTWV_GYgRl0VKIUzbyaQ",
+    "maps_url": "https://maps.google.com/?cid=11874263012561536407",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJt4PnTWV_GYgRl0VKIUzbyaQ",
+    "rating": 5,
+    "reviews": 4,
+    "address": "5525 Churchill Downs Drive, Muskegon, MI 49444, USA",
+    "city": "Muskegon",
+    "state": "MI",
+    "contacts": [
+      "Kyle Darley"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "Daysmart",
+    "place_id": "ChIJZYSJkv9rkFQRoy1_UjXPPlM",
+    "maps_url": "https://maps.google.com/?cid=5998459581628362147",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJZYSJkv9rkFQRoy1_UjXPPlM",
+    "rating": 1.9,
+    "reviews": 13,
+    "address": "3520 Green Ct #250, Ann Arbor, MI 48105, USA",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "contacts": [
+      "Tony Morrison"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "Dayton Children's Hospital",
+    "place_id": "ChIJS9gKN8bSJIgRrcbP1H-FtMo",
+    "maps_url": "https://maps.google.com/?cid=14606446275547088557",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJS9gKN8bSJIgRrcbP1H-FtMo",
+    "rating": 3.2,
+    "reviews": 830,
+    "address": "3901 Beaubien, Detroit, MI 48201, USA",
+    "city": "Detroit",
+    "state": "MI",
+    "contacts": [
+      "Ashley Junkunc"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "Decatur County Memorial Hospital",
+    "place_id": "ChIJ_RKZ3kz6aogRRoo70nQZDcs",
+    "maps_url": "https://maps.google.com/?cid=14631378753930627654",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ_RKZ3kz6aogRRoo70nQZDcs",
+    "rating": 3.2,
+    "reviews": 140,
+    "address": "720 N Lincoln St, Greensburg, IN 47240, USA",
+    "city": "Greensburg",
+    "state": "IN",
+    "contacts": [
+      "Amy Shearer"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "Delhivery",
+    "place_id": "ChIJYWRgXNBNGIgRCWapbAUxmes",
+    "maps_url": "https://maps.google.com/?cid=16976654169717433865",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJYWRgXNBNGIgRCWapbAUxmes",
+    "rating": 3.5,
+    "reviews": 44,
+    "address": "5030 Kraft Ave SE D, Grand Rapids, MI 49512, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Utkarsh Pandey"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "Dematic",
+    "place_id": "ChIJjaH13x6tGYgRml9u0hwv3yo",
+    "maps_url": "https://maps.google.com/?cid=3089239670235488154",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJjaH13x6tGYgRml9u0hwv3yo",
+    "rating": 3.9,
+    "reviews": 42,
+    "address": "507 Plymouth Ave NE, Grand Rapids, MI 49505, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Andres Molina"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "Devbridge",
+    "place_id": "ChIJk-InkTEtDogR6GFCH_A90Ao",
+    "maps_url": "https://maps.google.com/?cid=779190837060985320",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJk-InkTEtDogR6GFCH_A90Ao",
+    "rating": 5,
+    "reviews": 25,
+    "address": "350 N Orleans St Suite 7500-S, Chicago, IL 60654, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "Romas Sirutavi\u010dius"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "Discover Financial Services",
+    "place_id": "ChIJKUk2FU9TGIgRvSAVY8tR7TQ",
+    "maps_url": "https://maps.google.com/?cid=3813794393435218109",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJKUk2FU9TGIgRvSAVY8tR7TQ",
+    "rating": null,
+    "reviews": null,
+    "address": "971 Spaulding Ave SE a, Ada, MI 49301, USA",
+    "city": "Ada",
+    "state": "MI",
+    "contacts": [
+      "Danielle Yopchick"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
     "company": "Doeren Mayhew",
     "place_id": "ChIJD7UD_MStGYgRw8SbS_nzylk",
     "maps_url": "https://maps.google.com/?cid=6470252066712044739",
@@ -1222,6 +1433,81 @@
       "Tabatha Kwaske"
     ],
     "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Duffield Lane",
+    "place_id": "ChIJjfrqP8GtGYgRHwUudRlpbv8",
+    "maps_url": "https://maps.google.com/?cid=18405764285170844959",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJjfrqP8GtGYgRHwUudRlpbv8",
+    "rating": 4,
+    "reviews": 5,
+    "address": "2457 Burton St SE, Grand Rapids, MI 49546, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Jamie Duffield"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "EDITION Hotels",
+    "place_id": "ChIJI-HVZgAtO4gRgAYeO3_pOTI",
+    "maps_url": "https://maps.google.com/?cid=3619180508230846080",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJI-HVZgAtO4gRgAYeO3_pOTI",
+    "rating": 5,
+    "reviews": 2,
+    "address": "Detroit, MI 48226, USA",
+    "city": "Detroit",
+    "state": "MI",
+    "contacts": [
+      "Evelyn Terezakis"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "EMPIST",
+    "place_id": "ChIJuS-OC74sDogRlBslw_J3BCk",
+    "maps_url": "https://maps.google.com/?cid=2955619140001667988",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJuS-OC74sDogRlBslw_J3BCk",
+    "rating": 4.6,
+    "reviews": 73,
+    "address": "55 W Monroe St #400, Chicago, IL 60603, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "John Kampas"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "ERMCO",
+    "place_id": "ChIJ3S7PBkJZa4gRDIT6f0MthNw",
+    "maps_url": "https://maps.google.com/?cid=15889875153203135500",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ3S7PBkJZa4gRDIT6f0MthNw",
+    "rating": 4.1,
+    "reviews": 32,
+    "address": "95 Commerce Parkway West Dr, Greenwood, IN 46143, USA",
+    "city": "Greenwood",
+    "state": "IN",
+    "contacts": [
+      "Adam Rude"
+    ],
+    "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "ETAS",
+    "place_id": "ChIJz6Qez46xPIgR0mLIQvuPR9U",
+    "maps_url": "https://maps.google.com/?cid=15368410562745098962",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJz6Qez46xPIgR0mLIQvuPR9U",
+    "rating": 4.7,
+    "reviews": 22,
+    "address": "15800 N Haggerty Rd, Plymouth, MI 48170, USA",
+    "city": "Plymouth",
+    "state": "MI",
+    "contacts": [
+      "Claudia H."
+    ],
+    "enriched_at": "2026-03-16"
   },
   {
     "company": "Greenleaf Hospitality Group",
