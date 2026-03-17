@@ -120,6 +120,21 @@
     "enriched_at": "2026-03-14"
   },
   {
+    "company": "AeroPay",
+    "place_id": "ChIJkY4Y1uxPF4gRyG5umPHZJ5s",
+    "maps_url": "https://maps.google.com/?cid=11180144231638265544",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJkY4Y1uxPF4gRyG5umPHZJ5s",
+    "rating": 4.6,
+    "reviews": 339,
+    "address": "133 W Monroe St, Bangor, MI 49013, USA",
+    "city": "Bangor",
+    "state": "MI",
+    "contacts": [
+      "Kyle Reny"
+    ],
+    "enriched_at": "2026-03-17"
+  },
+  {
     "company": "Albion College",
     "place_id": "ChIJB6ux9w9FPYgRWj5Ptc84xTk",
     "maps_url": "https://maps.google.com/?cid=4162795895325146714",
@@ -133,6 +148,21 @@
       "Jrushton Rushton"
     ],
     "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "All-Weather Seal of West Michigan",
+    "place_id": "ChIJYWI8O7hcGIgRpVLxoNRNm3Q",
+    "maps_url": "https://maps.google.com/?cid=8402395105418367653",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJYWI8O7hcGIgRpVLxoNRNm3Q",
+    "rating": 4.7,
+    "reviews": 1513,
+    "address": "319 E Main St, Lowell, MI 49331, USA",
+    "city": "Lowell",
+    "state": "MI",
+    "contacts": [
+      "Logan MacMillen"
+    ],
+    "enriched_at": "2026-03-17"
   },
   {
     "company": "AllOne Health",
@@ -178,6 +208,21 @@
       "Nick Vondra"
     ],
     "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "AlphaSignal",
+    "place_id": "ChIJV45rkO-vPIgRuyDcBHaClXY",
+    "maps_url": "https://maps.google.com/?cid=8544879311404671163",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJV45rkO-vPIgRuyDcBHaClXY",
+    "rating": 4,
+    "reviews": 2,
+    "address": "640 Oxford Rd, Ann Arbor, MI 48104, USA",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "contacts": [
+      "John Apolinar"
+    ],
+    "enriched_at": "2026-03-17"
   },
   {
     "company": "Alston & Bird",
@@ -524,6 +569,21 @@
       "Amanda Lewan"
     ],
     "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Baudville Brands",
+    "place_id": "ChIJpcpXPhFMGIgRcXD9xBbuPKo",
+    "maps_url": "https://maps.google.com/?cid=12266941266612023409",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJpcpXPhFMGIgRcXD9xBbuPKo",
+    "rating": 3.7,
+    "reviews": 35,
+    "address": "5380 52nd St SE, Grand Rapids, MI 49512, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Brad Darooge"
+    ],
+    "enriched_at": "2026-03-17"
   },
   {
     "company": "Become Solutions",
@@ -1616,6 +1676,21 @@
     "enriched_at": "2026-03-16"
   },
   {
+    "company": "Express Lane Strategies",
+    "place_id": "ChIJkwJPkc00O4gRHTZkhveeLnY",
+    "maps_url": "https://maps.google.com/?cid=8515918731353011741",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJkwJPkc00O4gRHTZkhveeLnY",
+    "rating": 4.6,
+    "reviews": 215,
+    "address": "7430 Greenfield Rd, Dearborn, MI 48126, USA",
+    "city": "Dearborn",
+    "state": "MI",
+    "contacts": [
+      "Grayson Barnette"
+    ],
+    "enriched_at": "2026-03-17"
+  },
+  {
     "company": "FASPE (Fellowships at Auschwitz for the Study of Professional Ethics)",
     "place_id": "ChIJ8b223mqdF4gRh-DlW0AdzNc",
     "maps_url": "https://maps.google.com/?cid=15549835775660384391",
@@ -1719,6 +1794,173 @@
       "Catherine Woneis"
     ],
     "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "Focuscfo\u00ae",
+    "place_id": "ChIJ_ZUakNvdJIgRpy7b_PDJuTs",
+    "maps_url": "https://maps.google.com/?cid=4303692955800776359",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ_ZUakNvdJIgRpy7b_PDJuTs",
+    "rating": 5,
+    "reviews": 1,
+    "address": "43230 Garfield Rd Suite 130, Clinton Township, MI 48038, USA",
+    "city": "Clinton Township",
+    "state": "MI",
+    "contacts": [
+      "Randy Feger"
+    ],
+    "enriched_at": "2026-03-17"
+  },
+  {
+    "company": "Fork Farms",
+    "place_id": "ChIJ3TURctu5A4gR2gZpfhCfWrA",
+    "maps_url": "https://maps.google.com/?cid=12707644191768381146",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ3TURctu5A4gR2gZpfhCfWrA",
+    "rating": 5,
+    "reviews": 5,
+    "address": "1025 Lombardi Ave, Green Bay, WI 54304, USA",
+    "city": "Green Bay",
+    "state": "WI",
+    "contacts": [
+      "Anne Rogerson"
+    ],
+    "enriched_at": "2026-03-17"
+  },
+  {
+    "company": "FormAssembly",
+    "place_id": "ChIJbwYgbyJnbIgR2SARbywdt5I",
+    "maps_url": "https://maps.google.com/?cid=10571950726954688729",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJbwYgbyJnbIgR2SARbywdt5I",
+    "rating": 3.3,
+    "reviews": 6,
+    "address": "101 W Kirkwood Ave #224, Bloomington, IN 47404, USA",
+    "city": "Bloomington",
+    "state": "IN",
+    "contacts": [
+      "Cedric Savarese"
+    ],
+    "enriched_at": "2026-03-17"
+  },
+  {
+    "company": "Formic",
+    "place_id": "ChIJ4WdWRRItDogRbCV0GwEidGU",
+    "maps_url": "https://maps.google.com/?cid=7310505483280065900",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ4WdWRRItDogRbCV0GwEidGU",
+    "rating": 5,
+    "reviews": 1,
+    "address": "10210 Werch Dr Ste 205, Woodridge, IL 60517, USA",
+    "city": "Woodridge",
+    "state": "IL",
+    "contacts": [
+      "John Morley"
+    ],
+    "enriched_at": "2026-03-17"
+  },
+  {
+    "company": "Formstack",
+    "place_id": "ChIJGxyc1ydNa4gR_PNLybWBVWA",
+    "maps_url": "https://maps.google.com/?cid=6941597018427749372",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJGxyc1ydNa4gR_PNLybWBVWA",
+    "rating": 3.3,
+    "reviews": 43,
+    "address": "11671 Lantern Rd #300, Fishers, IN 46038, USA",
+    "city": "Fishers",
+    "state": "IN",
+    "contacts": [
+      "Matt Gard"
+    ],
+    "enriched_at": "2026-03-17"
+  },
+  {
+    "company": "Foxbright",
+    "place_id": "ChIJlahOisWtGYgRP2vqfVjnIxo",
+    "maps_url": "https://maps.google.com/?cid=1883603436426652479",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJlahOisWtGYgRP2vqfVjnIxo",
+    "rating": 5,
+    "reviews": 4,
+    "address": "1115 Ionia Ave NW Suite 109, Grand Rapids, MI 49503, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Hannah Lawrence"
+    ],
+    "enriched_at": "2026-03-17"
+  },
+  {
+    "company": "Friend Of sally",
+    "place_id": "ChIJsWs0au0HGYgRuJEkHZpg-Zw",
+    "maps_url": "https://maps.google.com/?cid=11311178154147877304",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJsWs0au0HGYgRuJEkHZpg-Zw",
+    "rating": null,
+    "reviews": null,
+    "address": "2585 10 Mile Rd NW, Sparta, MI 49345, USA",
+    "city": "Sparta",
+    "state": "MI",
+    "contacts": [
+      "Lazz"
+    ],
+    "enriched_at": "2026-03-17"
+  },
+  {
+    "company": "Full Scale",
+    "place_id": "ChIJX56dkzKjGYgRsfxe6zo8tCs",
+    "maps_url": "https://maps.google.com/?cid=3149208263193459889",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJX56dkzKjGYgRsfxe6zo8tCs",
+    "rating": 4.3,
+    "reviews": 31,
+    "address": "4850 Allen Park Dr, Allendale, MI 49401, USA",
+    "city": "Allendale",
+    "state": "MI",
+    "contacts": [
+      "Julie Lasala",
+      "Darrell Blackburn",
+      "Kristine Olivares"
+    ],
+    "enriched_at": "2026-03-17"
+  },
+  {
+    "company": "Fusionary",
+    "place_id": "ChIJTXml2jKsGYgRcUHwOZjrTwQ",
+    "maps_url": "https://maps.google.com/?cid=310725938351456625",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJTXml2jKsGYgRcUHwOZjrTwQ",
+    "rating": 5,
+    "reviews": 1,
+    "address": "89 Monroe Center St NW, Grand Rapids, MI 49503, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Sam Kasgorgis"
+    ],
+    "enriched_at": "2026-03-17"
+  },
+  {
+    "company": "G10 Fulfillment",
+    "place_id": "ChIJUWwawL3wBYgRJeQlrQqR8f0",
+    "maps_url": "https://maps.google.com/?cid=18298566236023677989",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJUWwawL3wBYgRJeQlrQqR8f0",
+    "rating": 3.6,
+    "reviews": 27,
+    "address": "1501 E Wisconsin St, Delavan, WI 53115, USA",
+    "city": "Delavan",
+    "state": "WI",
+    "contacts": [
+      "Matt Bradbury"
+    ],
+    "enriched_at": "2026-03-17"
+  },
+  {
+    "company": "GEMCO Medical",
+    "place_id": "ChIJ96rzo1ghMYgRrKnKIQP8msE",
+    "maps_url": "https://maps.google.com/?cid=13950739886115563948",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ96rzo1ghMYgRrKnKIQP8msE",
+    "rating": 3.4,
+    "reviews": 10,
+    "address": "5640 Hudson Industrial Pkwy, Hudson, OH 44236, USA",
+    "city": "Hudson",
+    "state": "OH",
+    "contacts": [
+      "Timothy Paul"
+    ],
+    "enriched_at": "2026-03-17"
   },
   {
     "company": "Greenleaf Hospitality Group",
