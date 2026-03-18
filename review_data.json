@@ -2008,6 +2008,21 @@
     "enriched_at": "2026-03-18"
   },
   {
+    "company": "Galloway & Company, LLC",
+    "place_id": "ChIJ0alUsjeWJIgRuySSkX2RDNc",
+    "maps_url": "https://maps.google.com/?cid=15495920386374247611",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ0alUsjeWJIgRuySSkX2RDNc",
+    "rating": 3,
+    "reviews": 6,
+    "address": "4139 W Walton Blvd, Waterford Township, MI 48329, USA",
+    "city": "Waterford Township",
+    "state": "MI",
+    "contacts": [
+      "Katie Fitzpatrick"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
     "company": "Genesis Automation Healthcare",
     "place_id": "ChIJ818S03kCD4gR9DymK_xGI-I",
     "maps_url": "https://maps.google.com/?cid=16294945925634604276",
@@ -2487,6 +2502,96 @@
     "state": "MI",
     "contacts": [
       "Chris Pollum"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Indeavor",
+    "place_id": "ChIJOQ2HFXBTBogRrGG5pGCs-PI",
+    "maps_url": "https://maps.google.com/?cid=17507933082483253676",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJOQ2HFXBTBogRrGG5pGCs-PI",
+    "rating": 4,
+    "reviews": 8,
+    "address": "834 E Washington Ave ste 257, Madison, WI 53703, USA",
+    "city": "Madison",
+    "state": "WI",
+    "contacts": [
+      "Brandon Schwarz"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Inland Northwest Agc",
+    "place_id": "ChIJYWmLU0fqIogRUiHNE87kyTI",
+    "maps_url": "https://maps.google.com/?cid=3659707745961845074",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJYWmLU0fqIogRUiHNE87kyTI",
+    "rating": 4.8,
+    "reviews": 4,
+    "address": "2323 N Larch St, Lansing, MI 48906, USA",
+    "city": "Lansing",
+    "state": "MI",
+    "contacts": [
+      "Shannen Talbot"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Innotec International",
+    "place_id": "ChIJZywEEpyUGYgRfAxmQaMtLwM",
+    "maps_url": "https://maps.google.com/?cid=229452285219310716",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJZywEEpyUGYgRfAxmQaMtLwM",
+    "rating": 4,
+    "reviews": 5,
+    "address": "441 E Roosevelt Ave #100, Zeeland, MI 49464, USA",
+    "city": "Zeeland",
+    "state": "MI",
+    "contacts": [
+      "Bryan Lanser"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Inpro",
+    "place_id": "ChIJR86fUJHEJIgRTu4cB4SdEXA",
+    "maps_url": "https://maps.google.com/?cid=8075408797232590414",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJR86fUJHEJIgRTu4cB4SdEXA",
+    "rating": 4.2,
+    "reviews": 21,
+    "address": "2095 E Big Beaver Rd # 100, Troy, MI 48083, USA",
+    "city": "Troy",
+    "state": "MI",
+    "contacts": [
+      "Kim Holman"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Integral",
+    "place_id": "ChIJAUyo393PJIgRerpcy5jYrEc",
+    "maps_url": "https://maps.google.com/?cid=5164741023445596794",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJAUyo393PJIgRerpcy5jYrEc",
+    "rating": 4,
+    "reviews": 8,
+    "address": "1060 Centre Rd, Auburn Hills, MI 48326, USA",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "contacts": [
+      "Mike Testa"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Interim Healthcare of Delaware LLC",
+    "place_id": "ChIJD78c4rGyGYgRkIiPHtnznvw",
+    "maps_url": "https://maps.google.com/?cid=18203254857724299408",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJD78c4rGyGYgRkIiPHtnznvw",
+    "rating": 4.4,
+    "reviews": 98,
+    "address": "1971 E Beltline Ave NE # 216, Grand Rapids, MI 49525, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Dana Mangrelli - Stover"
     ],
     "enriched_at": "2026-03-18"
   },
