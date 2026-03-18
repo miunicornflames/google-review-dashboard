@@ -2260,6 +2260,81 @@
     "enriched_at": "2026-03-18"
   },
   {
+    "company": "High Alpha",
+    "place_id": "ChIJhwClnAWzGYgRRGfrr7AIY8s",
+    "maps_url": "https://maps.google.com/?cid=14655567167352432452",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJhwClnAWzGYgRRGfrr7AIY8s",
+    "rating": 5,
+    "reviews": 8,
+    "address": "710 Muskegon Ave NW, Grand Rapids, MI 49504, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Elliott Parker"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Hilti",
+    "place_id": "ChIJq9rKHNyzGYgRPJCHZ8_uqVU",
+    "maps_url": "https://maps.google.com/?cid=6172727338850553916",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJq9rKHNyzGYgRPJCHZ8_uqVU",
+    "rating": 4.2,
+    "reviews": 11,
+    "address": "4503 Clay Ave SW, Grand Rapids, MI 49548, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Erin Bird"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Himss North Carolina Chapter",
+    "place_id": "ChIJT7_uxcvpIogRdLbCYgIC3kE",
+    "maps_url": "https://maps.google.com/?cid=4746233266565199476",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJT7_uxcvpIogRdLbCYgIC3kE",
+    "rating": 4.1,
+    "reviews": 11,
+    "address": "120 N Washington Square Suite 316, Lansing, MI 48933, USA",
+    "city": "Lansing",
+    "state": "MI",
+    "contacts": [
+      "Jordan Rogers"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Hireology",
+    "place_id": "ChIJx0xeZLMsDogRAovznIwdmC8",
+    "maps_url": "https://maps.google.com/?cid=3429523606008466178",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJx0xeZLMsDogRAovznIwdmC8",
+    "rating": 3,
+    "reviews": 40,
+    "address": "24 E Washington St #800, Chicago, IL 60602, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "Adam Robinson"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Hoekstra Transportation",
+    "place_id": "ChIJ6yFknaSzGYgR9A_D7T8I97Q",
+    "maps_url": "https://maps.google.com/?cid=13039900316739506164",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ6yFknaSzGYgR9A_D7T8I97Q",
+    "rating": 4.4,
+    "reviews": 73,
+    "address": "3741 Roger B Chaffee Memorial Blvd SE, Grand Rapids, MI 49548, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Joe Greene"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
     "company": "Home Pro of West Michigan",
     "place_id": "ChIJ43jtwtZNGIgRN5Q67CD3gRU",
     "maps_url": "https://maps.google.com/?cid=2326265258788048312",
@@ -2273,6 +2348,37 @@
       "Terry Sullivan"
     ],
     "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Hope College",
+    "place_id": "ChIJU9jdXaXyGYgRiRgjUXF0NXQ",
+    "maps_url": "https://maps.google.com/?cid=8373727112206686345",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJU9jdXaXyGYgRiRgjUXF0NXQ",
+    "rating": 4.6,
+    "reviews": 134,
+    "address": "141 E 12th St, Holland, MI 49423, USA",
+    "city": "Holland",
+    "state": "MI",
+    "contacts": [
+      "Gordon Wylen",
+      "Asamoatutu"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Hornor Townsend & Kent",
+    "place_id": "ChIJL-ZGnNGtGYgRkUNtc-2Adms",
+    "maps_url": "https://maps.google.com/?cid=7743518366642291601",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJL-ZGnNGtGYgRkUNtc-2Adms",
+    "rating": null,
+    "reviews": null,
+    "address": "333 Bridge St NW UNIT 205, Grand Rapids, MI 49504, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Stephanie Kensy"
+    ],
+    "enriched_at": "2026-03-18"
   },
   {
     "company": "K Group Companies",
