@@ -1058,6 +1058,21 @@
     "enriched_at": "2026-03-14"
   },
   {
+    "company": "CoStar Group",
+    "place_id": "ChIJTVwfSC_IJIgRNe3ck_5zrh0",
+    "maps_url": "https://maps.google.com/?cid=2138774410287181109",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJTVwfSC_IJIgRNe3ck_5zrh0",
+    "rating": null,
+    "reviews": null,
+    "address": "3000 Town Center #2340, Southfield, MI 48075, USA",
+    "city": "Southfield",
+    "state": "MI",
+    "contacts": [
+      "Jordan Williams"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
     "company": "Colorado Special Olympics",
     "place_id": "ChIJES4zkli1GYgRkXK4B7gHg2E",
     "maps_url": "https://maps.google.com/?cid=7026468330613011089",
@@ -2133,6 +2148,114 @@
     "state": "MI",
     "contacts": [
       "Sarah Hickey"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Hand2Hand",
+    "place_id": "ChIJ__FrCn68GYgReJgLvn9f5iQ",
+    "maps_url": "https://maps.google.com/?cid=2658917632262772856",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ__FrCn68GYgReJgLvn9f5iQ",
+    "rating": 5,
+    "reviews": 25,
+    "address": "306 Chicago Dr, Jenison, MI 49428, USA",
+    "city": "Jenison",
+    "state": "MI",
+    "contacts": [
+      "Michelle Hauch"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Harvest OPC",
+    "place_id": "ChIJLRkunVexGYgRJ-C3YsZe8h8",
+    "maps_url": "https://maps.google.com/?cid=2302006565692497959",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJLRkunVexGYgRJ-C3YsZe8h8",
+    "rating": 4.7,
+    "reviews": 46,
+    "address": "930 52nd St SW, Wyoming, MI 49509, USA",
+    "city": "Wyoming",
+    "state": "MI",
+    "contacts": [
+      "Melinda LaCount"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Haworth",
+    "place_id": "ChIJMT2g34TtGYgRtvlfVVGvcBU",
+    "maps_url": "https://maps.google.com/?cid=1544927436047645110",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJMT2g34TtGYgRtvlfVVGvcBU",
+    "rating": 4,
+    "reviews": 45,
+    "address": "1 Haworth Center, Holland, MI 49423, USA",
+    "city": "Holland",
+    "state": "MI",
+    "contacts": [
+      "Pam Armstrong",
+      "Frances Hogsten",
+      "Whitney Sills"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Heartland Charging Services",
+    "place_id": "ChIJZVwm5Lm-GYgRBgf_-8qRbec",
+    "maps_url": "https://maps.google.com/?cid=16676145296220030726",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJZVwm5Lm-GYgRBgf_-8qRbec",
+    "rating": 4.3,
+    "reviews": 3,
+    "address": "3156 Highland Dr, Hudsonville, MI 49426, USA",
+    "city": "Hudsonville",
+    "state": "MI",
+    "contacts": [
+      "Abby Goolsby"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Heidrick & Struggles",
+    "place_id": "ChIJu_tp4r4sDogRXsKwF_P7frw",
+    "maps_url": "https://maps.google.com/?cid=13582570547689079390",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJu_tp4r4sDogRXsKwF_P7frw",
+    "rating": 2.1,
+    "reviews": 7,
+    "address": "233 S Wacker Dr #4900, Chicago, IL 60606, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "Sinead Mcsweeney"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "HexArmor",
+    "place_id": "ChIJ7VJEoCCtGYgRBEULAzbPfYI",
+    "maps_url": "https://maps.google.com/?cid=9402899427905717508",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ7VJEoCCtGYgRBEULAzbPfYI",
+    "rating": 3.9,
+    "reviews": 25,
+    "address": "640 Leffingwell Ave NE, Grand Rapids, MI 49505, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Jon Lime",
+      "Sophia Zolnierek"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Hg Automation",
+    "place_id": "ChIJx5LlVhxNGIgRar8DIdGKEVo",
+    "maps_url": "https://maps.google.com/?cid=6490121168824287082",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJx5LlVhxNGIgRar8DIdGKEVo",
+    "rating": 5,
+    "reviews": 1,
+    "address": "3755 36th St SE, Grand Rapids, MI 49512, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Ben Garvelink"
     ],
     "enriched_at": "2026-03-18"
   },
