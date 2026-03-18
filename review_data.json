@@ -2152,6 +2152,21 @@
     "enriched_at": "2026-03-18"
   },
   {
+    "company": "HDVI",
+    "place_id": "ChIJX1xTINWtGYgRP6DJLPn9Y3k",
+    "maps_url": "https://maps.google.com/?cid=8747114147923730495",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJX1xTINWtGYgRP6DJLPn9Y3k",
+    "rating": 4.9,
+    "reviews": 187,
+    "address": "37 Ottawa Ave NW Suite 400, Grand Rapids, MI 49503, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Adam Barnett"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
     "company": "Hand2Hand",
     "place_id": "ChIJ__FrCn68GYgReJgLvn9f5iQ",
     "maps_url": "https://maps.google.com/?cid=2658917632262772856",
@@ -2377,6 +2392,101 @@
     "state": "MI",
     "contacts": [
       "Stephanie Kensy"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "HumanCentric",
+    "place_id": "ChIJwUtE6SnPJIgRG2y0SfG4OyI",
+    "maps_url": "https://maps.google.com/?cid=2466768567378668571",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJwUtE6SnPJIgRG2y0SfG4OyI",
+    "rating": 5,
+    "reviews": 231,
+    "address": "6375 Seven Mile W suite 101, Detroit, MI 48221, USA",
+    "city": "Detroit",
+    "state": "MI",
+    "contacts": [
+      "Josefina Linares"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "INEOS",
+    "place_id": "ChIJe6pcZYm9JIgR8M_DgFs7is0",
+    "maps_url": "https://maps.google.com/?cid=14810715588749676528",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJe6pcZYm9JIgR8M_DgFs7is0",
+    "rating": 4.9,
+    "reviews": 105,
+    "address": "5300 Highland Rd Suite 2, Waterford Township, MI 48327, USA",
+    "city": "Waterford Township",
+    "state": "MI",
+    "contacts": [
+      "April Ludwikowski"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "ITPartners+",
+    "place_id": "ChIJJ2j91xdNGIgRieDiJLerZCg",
+    "maps_url": "https://maps.google.com/?cid=2910640062274396297",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJJ2j91xdNGIgRieDiJLerZCg",
+    "rating": 5,
+    "reviews": 44,
+    "address": "2851 Charlevoix Dr SE #100, Grand Rapids, MI 49546, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Sean Trudeau"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "IdeaTek",
+    "place_id": "ChIJ_zxehnARJIgRY2XjTMULvJ0",
+    "maps_url": "https://maps.google.com/?cid=11365972501602723171",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ_zxehnARJIgRY2XjTMULvJ0",
+    "rating": 3.6,
+    "reviews": 17,
+    "address": "2560 Mertz Rd, Caro, MI 48723, USA",
+    "city": "Caro",
+    "state": "MI",
+    "contacts": [
+      "Nic Smith",
+      "Daniel Styles",
+      "Chad Duvall",
+      "Kyle Beer",
+      "Mark Keeton",
+      "James Krstolich",
+      "Ryan Washburn",
+      "Tommy Bunce",
+      "Chris Nolde",
+      "Katie McGinn",
+      "Carlee Parker",
+      "Kaedra Dixson",
+      "Benedito Balderas",
+      "Rebekah Haase",
+      "Joel Kesinger",
+      "Daniel Friesen",
+      "Amy Bickel",
+      "Clayton Delaney",
+      "Morgan Brees",
+      "Craig Tyler",
+      "Leah Chambers"
+    ],
+    "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Ilmor Engineering",
+    "place_id": "ChIJwTNz792sJIgRkblRW1uu-VY",
+    "maps_url": "https://maps.google.com/?cid=6267232063860095377",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJwTNz792sJIgRkblRW1uu-VY",
+    "rating": 4.9,
+    "reviews": 13,
+    "address": "43939 Plymouth Oaks Blvd, Plymouth, MI 48170, USA",
+    "city": "Plymouth",
+    "state": "MI",
+    "contacts": [
+      "Chris Pollum"
     ],
     "enriched_at": "2026-03-18"
   },
