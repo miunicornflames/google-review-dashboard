@@ -2682,5 +2682,51 @@
       "Vince Boileau"
     ],
     "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "Kelly Services",
+    "place_id": "ChIJy9t9wj2zGYgR-wKSuKqkfD4",
+    "maps_url": "https://maps.google.com/?cid=4502654780611625723",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJy9t9wj2zGYgR-wKSuKqkfD4",
+    "rating": 4.6,
+    "reviews": 32,
+    "address": "2055 28th St SE, Grand Rapids, MI 49508, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Marisa Thaxter",
+      "Robert Zukowski"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "Kforce",
+    "place_id": "ChIJI3oaXMOtGYgRVdsFpV4s6vs",
+    "maps_url": "https://maps.google.com/?cid=18152370033077377877",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJI3oaXMOtGYgRVdsFpV4s6vs",
+    "rating": 2.6,
+    "reviews": 7,
+    "address": "678 Front Ave NW #256, Grand Rapids, MI 49504, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Troy Lawrence"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "Know Honesty",
+    "place_id": "ChIJfxYHJRWnGYgRJsdlumgg9kY",
+    "maps_url": "https://maps.google.com/?cid=5113310061101696806",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJfxYHJRWnGYgRJsdlumgg9kY",
+    "rating": 5,
+    "reviews": 3,
+    "address": "1379 Comstock St, Marne, MI 49435, USA",
+    "city": "Marne",
+    "state": "MI",
+    "contacts": [
+      "Grace VanDenBrink"
+    ],
+    "enriched_at": "2026-03-19"
   }
 ]
