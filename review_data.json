@@ -1058,6 +1058,21 @@
     "enriched_at": "2026-03-14"
   },
   {
+    "company": "CoSchedule",
+    "place_id": "ChIJHUbPyrlRGIgRRw4Q0VJ6N_E",
+    "maps_url": "https://maps.google.com/?cid=17381495782973115975",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJHUbPyrlRGIgRRw4Q0VJ6N_E",
+    "rating": 5,
+    "reviews": 1,
+    "address": "4101 Sparks Dr SE, Grand Rapids, MI 49546, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Garrett Moon"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
     "company": "CoStar Group",
     "place_id": "ChIJTVwfSC_IJIgRNe3ck_5zrh0",
     "maps_url": "https://maps.google.com/?cid=2138774410287181109",
@@ -1658,6 +1673,21 @@
       "Jamie Anderson"
     ],
     "enriched_at": "2026-03-16"
+  },
+  {
+    "company": "Essentra",
+    "place_id": "ChIJjwmCKZwaD4gRovhaTLT1KM0",
+    "maps_url": "https://maps.google.com/?cid=14783335931567601826",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJjwmCKZwaD4gRovhaTLT1KM0",
+    "rating": 5,
+    "reviews": 1,
+    "address": "2520 Vantage Dr, Elgin, IL 60124, USA",
+    "city": "Elgin",
+    "state": "IL",
+    "contacts": [
+      "Oliverburney Burney"
+    ],
+    "enriched_at": "2026-03-19"
   },
   {
     "company": "EverFriends.ai",
@@ -2726,6 +2756,36 @@
     "state": "MI",
     "contacts": [
       "Grace VanDenBrink"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "LEAD Marketing Agency",
+    "place_id": "ChIJEeVgA0NNGIgRzuUHRFY_KRA",
+    "maps_url": "https://maps.google.com/?cid=1164531618393089486",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJEeVgA0NNGIgRzuUHRFY_KRA",
+    "rating": 5,
+    "reviews": 9,
+    "address": "2311 E Beltline Ave SE, Grand Rapids, MI 49546, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Tom Sullivan"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "LaFleur Marketing",
+    "place_id": "ChIJd1D3Fr-tGYgRFHfsdWi8uXw",
+    "maps_url": "https://maps.google.com/?cid=8987421688235587348",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJd1D3Fr-tGYgRFHfsdWi8uXw",
+    "rating": 5,
+    "reviews": 15,
+    "address": "549 Ottawa Ave NW # 201, Grand Rapids, MI 49503, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Christopher LaFleur"
     ],
     "enriched_at": "2026-03-19"
   }
