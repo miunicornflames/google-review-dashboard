@@ -1811,6 +1811,21 @@
     "enriched_at": "2026-03-16"
   },
   {
+    "company": "Fibersmith",
+    "place_id": "ChIJ8YrEa7RfGYgRm2as3B8Eg1k",
+    "maps_url": "https://maps.google.com/?cid=6450003626217465499",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ8YrEa7RfGYgRm2as3B8Eg1k",
+    "rating": 5,
+    "reviews": 1,
+    "address": "2680 Brunswick Rd, Holton, MI 49425, USA",
+    "city": "Holton",
+    "state": "MI",
+    "contacts": [
+      "Nicholas Pena"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
     "company": "Fifth Wheel Freight",
     "place_id": "ChIJ04ppUSfoIogRshF66tsCMFs",
     "maps_url": "https://maps.google.com/?cid=6570754999888515506",
@@ -2878,6 +2893,51 @@
     "state": "MI",
     "contacts": [
       "Elliot MBA"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "Leadership in Manufacturing Podcast",
+    "place_id": "ChIJS3E5mJexGYgRABAYEMvN2-c",
+    "maps_url": "https://maps.google.com/?cid=16707173514693054464",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJS3E5mJexGYgRABAYEMvN2-c",
+    "rating": 5,
+    "reviews": 29,
+    "address": "1760 44th St SW, Wyoming, MI 49519, USA",
+    "city": "Wyoming",
+    "state": "MI",
+    "contacts": [
+      "Sannah Vinding"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "Legacy For Health",
+    "place_id": "ChIJPQjzNVmzGYgRURscjBhPAGw",
+    "maps_url": "https://maps.google.com/?cid=7782307122944678737",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJPQjzNVmzGYgRURscjBhPAGw",
+    "rating": 5,
+    "reviews": 1,
+    "address": "2524 Woodmeadow Dr SE # B, Grand Rapids, MI 49546, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Mary Howell"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "Lenovo",
+    "place_id": "ChIJN1_2VQTFJIgRNVJgNh75KFk",
+    "maps_url": "https://maps.google.com/?cid=6424658776600629813",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJN1_2VQTFJIgRNVJgNh75KFk",
+    "rating": 4.5,
+    "reviews": 10654,
+    "address": "32800 Concord Dr, Madison Heights, MI 48071, USA",
+    "city": "Madison Heights",
+    "state": "MI",
+    "contacts": [
+      "Linden White Cowan"
     ],
     "enriched_at": "2026-03-19"
   }
