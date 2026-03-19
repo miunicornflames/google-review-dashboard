@@ -2788,5 +2788,52 @@
       "Christopher LaFleur"
     ],
     "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "Lakeshore Advantage",
+    "place_id": "ChIJt3NUpkKTGYgRJSIYcmHcn6c",
+    "maps_url": "https://maps.google.com/?cid=12078615036715082277",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJt3NUpkKTGYgRJSIYcmHcn6c",
+    "rating": null,
+    "reviews": null,
+    "address": "65 E 7th St, Holland, MI 49423, USA",
+    "city": "Holland",
+    "state": "MI",
+    "contacts": [
+      "Beth Blanton",
+      "Amanda Cooper",
+      "Amanda Murray"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "Lakeshore Customs, LLC",
+    "place_id": "ChIJhYbJRjqNGYgR94Sft_zC2IM",
+    "maps_url": "https://maps.google.com/?cid=9500557804606293239",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJhYbJRjqNGYgR94Sft_zC2IM",
+    "rating": 5,
+    "reviews": 30,
+    "address": "590 E 32nd St, Holland, MI 49423, USA",
+    "city": "Holland",
+    "state": "MI",
+    "contacts": [
+      "Mason Kuipers"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "Lambert",
+    "place_id": "ChIJh4h286e_TU0R-yQhbKK6N0g",
+    "maps_url": "https://maps.google.com/?cid=5203833101211477243",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJh4h286e_TU0R-yQhbKK6N0g",
+    "rating": null,
+    "reviews": null,
+    "address": "Lambert, MI 49837, USA",
+    "city": "Lambert",
+    "state": "MI",
+    "contacts": [
+      "Elliot MBA"
+    ],
+    "enriched_at": "2026-03-19"
   }
 ]
