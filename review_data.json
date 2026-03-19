@@ -2596,6 +2596,66 @@
     "enriched_at": "2026-03-18"
   },
   {
+    "company": "J. Rettenmaier USA",
+    "place_id": "ChIJdUzxzy4KF4gRc6MWknoBZQw",
+    "maps_url": "https://maps.google.com/?cid=893121727051506547",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJdUzxzy4KF4gRc6MWknoBZQw",
+    "rating": 2.7,
+    "reviews": 40,
+    "address": "16369 US-131, Schoolcraft, MI 49087, USA",
+    "city": "Schoolcraft",
+    "state": "MI",
+    "contacts": [
+      "Paula Geiger"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "Jamf",
+    "place_id": "ChIJawnPo6YlPYgRijrSvPEK4DI",
+    "maps_url": "https://maps.google.com/?cid=3665942130050873994",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJawnPo6YlPYgRijrSvPEK4DI",
+    "rating": null,
+    "reviews": null,
+    "address": "Jackson, MI 49203, USA",
+    "city": "Jackson",
+    "state": "MI",
+    "contacts": [
+      "James Huang"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "Jet Marketing",
+    "place_id": "ChIJoxNMTMexPIgRgP31Pd_aJI0",
+    "maps_url": "https://maps.google.com/?cid=10170494510861516160",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJoxNMTMexPIgRgP31Pd_aJI0",
+    "rating": null,
+    "reviews": null,
+    "address": "211 N 1st St Suite 207, Brighton, MI 48116, USA",
+    "city": "Brighton",
+    "state": "MI",
+    "contacts": [
+      "Jeannette Taylor"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "JumpStart",
+    "place_id": "ChIJL0oBODKtGYgRVfQrI-PWhXI",
+    "maps_url": "https://maps.google.com/?cid=8252238163262305365",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJL0oBODKtGYgRVfQrI-PWhXI",
+    "rating": 4.9,
+    "reviews": 58,
+    "address": "1345 Monroe Ave NW #269, Grand Rapids, MI 49505, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Edward Valentin-Lugo"
+    ],
+    "enriched_at": "2026-03-19"
+  },
+  {
     "company": "K Group Companies",
     "place_id": "ChIJsT6h6NKtGYgR63Wh2FyEybI",
     "maps_url": "https://maps.google.com/?cid=12882973743376332267",
@@ -2607,5 +2667,20 @@
     "state": "MI",
     "contacts": [],
     "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "KARINNE BOILEAU",
+    "place_id": "ChIJC1btJDONGYgRMWiTAUIUkUo",
+    "maps_url": "https://maps.google.com/?cid=5373098104156547121",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJC1btJDONGYgRMWiTAUIUkUo",
+    "rating": 5,
+    "reviews": 9,
+    "address": "54 W 8th St STE 210, Holland, MI 49423, USA",
+    "city": "Holland",
+    "state": "MI",
+    "contacts": [
+      "Vince Boileau"
+    ],
+    "enriched_at": "2026-03-19"
   }
 ]
