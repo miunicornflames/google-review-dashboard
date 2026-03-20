@@ -3167,5 +3167,21 @@
       "Leta Strube"
     ],
     "enriched_at": "2026-03-20"
+  },
+  {
+    "company": "Mentavi Health",
+    "place_id": "ChIJiwxP6MmtGYgRIvanitRJQlk",
+    "maps_url": "https://maps.google.com/?cid=6431784395046647330",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJiwxP6MmtGYgRIvanitRJQlk",
+    "rating": 2.5,
+    "reviews": 50,
+    "address": "625 Kenmoor Ave SE Suite 301, Grand Rapids, MI 49546, USA",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "contacts": [
+      "Tim Gutwald",
+      "Michelle Lewis"
+    ],
+    "enriched_at": "2026-03-20"
   }
 ]
