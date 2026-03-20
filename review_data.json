@@ -3152,5 +3152,20 @@
       "Caron Pece"
     ],
     "enriched_at": "2026-03-20"
+  },
+  {
+    "company": "Mather",
+    "place_id": "ChIJ6_bXdBzrUU0Rg0V_7xhzh8A",
+    "maps_url": "https://maps.google.com/?cid=13873183728072607107",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ6_bXdBzrUU0Rg0V_7xhzh8A",
+    "rating": 2.9,
+    "reviews": 30,
+    "address": "107 E Canda St, Ishpeming, MI 49849, USA",
+    "city": "Ishpeming",
+    "state": "MI",
+    "contacts": [
+      "Leta Strube"
+    ],
+    "enriched_at": "2026-03-20"
   }
 ]
