@@ -3121,5 +3121,36 @@
       "Information"
     ],
     "enriched_at": "2026-03-20"
+  },
+  {
+    "company": "MORR",
+    "place_id": "ChIJoWjrfEqEI4gRYywpRgBT6D8",
+    "maps_url": "https://maps.google.com/?cid=4605021879628541027",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJoWjrfEqEI4gRYywpRgBT6D8",
+    "rating": null,
+    "reviews": null,
+    "address": "Mt Morris, MI 48458, USA",
+    "city": "Mt Morris",
+    "state": "MI",
+    "contacts": [
+      "Demetri Morris"
+    ],
+    "enriched_at": "2026-03-20"
+  },
+  {
+    "company": "ManpowerGroup",
+    "place_id": "ChIJ05F8wl9lO4gRq8660U9_dRc",
+    "maps_url": "https://maps.google.com/?cid=1690397215945313963",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ05F8wl9lO4gRq8660U9_dRc",
+    "rating": 4.5,
+    "reviews": 292,
+    "address": "173 Parkland Plaza Suite D, Ann Arbor, MI 48103, USA",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "contacts": [
+      "Melissa Bimbi",
+      "Caron Pece"
+    ],
+    "enriched_at": "2026-03-20"
   }
 ]
