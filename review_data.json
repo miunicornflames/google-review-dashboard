@@ -3045,5 +3045,81 @@
       "Michael Iley"
     ],
     "enriched_at": "2026-03-20"
+  },
+  {
+    "company": "Lob",
+    "place_id": "ChIJqUvrEUjPJIgRTe4zVhUWkF4",
+    "maps_url": "https://maps.google.com/?cid=6813970517107928653",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJqUvrEUjPJIgRTe4zVhUWkF4",
+    "rating": 4.8,
+    "reviews": 208,
+    "address": "24681 Northwestern Hwy Suite 4100, Southfield, MI 48075, USA",
+    "city": "Southfield",
+    "state": "MI",
+    "contacts": [
+      "Elizabeth Purkiss"
+    ],
+    "enriched_at": "2026-03-20"
+  },
+  {
+    "company": "LogicGate",
+    "place_id": "ChIJAebrYrssDogR1mSXnFE3YC8",
+    "maps_url": "https://maps.google.com/?cid=3413789341205882070",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJAebrYrssDogR1mSXnFE3YC8",
+    "rating": 4.5,
+    "reviews": 10,
+    "address": "320 W Ohio St Suite 600W, Chicago, IL 60654, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "Victoria Juntado",
+      "Dan Campbell"
+    ],
+    "enriched_at": "2026-03-20"
+  },
+  {
+    "company": "Loyola University Chicago",
+    "place_id": "ChIJ_8UzkArRD4gRTH5hbofNE-Y",
+    "maps_url": "https://maps.google.com/?cid=16578820634837089868",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ_8UzkArRD4gRTH5hbofNE-Y",
+    "rating": 4.4,
+    "reviews": 534,
+    "address": "1032 W Sheridan Rd, Chicago, IL 60660, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "Mhufman"
+    ],
+    "enriched_at": "2026-03-20"
+  },
+  {
+    "company": "Ludus",
+    "place_id": "ChIJtVGzMZ_yGYgR6_V68SuMRUo",
+    "maps_url": "https://maps.google.com/?cid=5351837852562552299",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJtVGzMZ_yGYgR6_V68SuMRUo",
+    "rating": 5,
+    "reviews": 4,
+    "address": "217 E 24th St Suite 140, Holland, MI 49423, USA",
+    "city": "Holland",
+    "state": "MI",
+    "contacts": [
+      "Kevin Schneider"
+    ],
+    "enriched_at": "2026-03-20"
+  },
+  {
+    "company": "MBW",
+    "place_id": "ChIJl6aHQlYyHogRgYwoe0WJgaE",
+    "maps_url": "https://maps.google.com/?cid=11637733843614076033",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJl6aHQlYyHogRgYwoe0WJgaE",
+    "rating": 4.5,
+    "reviews": 131,
+    "address": "2801 N U.S. 31 S, Traverse City, MI 49684, USA",
+    "city": "Traverse City",
+    "state": "MI",
+    "contacts": [
+      "Information"
+    ],
+    "enriched_at": "2026-03-20"
   }
 ]
