@@ -135,6 +135,21 @@
     "enriched_at": "2026-03-14"
   },
   {
+    "company": "Advance Business Systems",
+    "place_id": "ChIJe6EO8-DFJIgRpAbB9fjHHGY",
+    "maps_url": "https://maps.google.com/?cid=7357975763305432740",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJe6EO8-DFJIgRpAbB9fjHHGY",
+    "rating": 5,
+    "reviews": 15,
+    "address": "801 W Big Beaver Rd Suite 300, Troy, MI 48084, USA",
+    "city": "Troy",
+    "state": "MI",
+    "contacts": [
+      "Olivia Bushong"
+    ],
+    "enriched_at": "2026-03-20"
+  },
+  {
     "company": "AeroPay",
     "place_id": "ChIJkY4Y1uxPF4gRyG5umPHZJ5s",
     "maps_url": "https://maps.google.com/?cid=11180144231638265544",
@@ -524,6 +539,21 @@
       "Brandon Walsh"
     ],
     "enriched_at": "2026-03-14"
+  },
+  {
+    "company": "Avenue Talent Partners",
+    "place_id": "ChIJx0U7Q6osDogRPaOpYvIG84o",
+    "maps_url": "https://maps.google.com/?cid=10012354034681881405",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJx0U7Q6osDogRPaOpYvIG84o",
+    "rating": 5,
+    "reviews": 1,
+    "address": "400 N Michigan Ave, Chicago, IL 60611, USA",
+    "city": "Chicago",
+    "state": "IL",
+    "contacts": [
+      "Amy Volas"
+    ],
+    "enriched_at": "2026-03-20"
   },
   {
     "company": "BKD CPAs & Advisors",
@@ -1101,6 +1131,21 @@
       "Jordan Williams"
     ],
     "enriched_at": "2026-03-18"
+  },
+  {
+    "company": "Cointelegraph",
+    "place_id": "ChIJx5zzfhRJO4gR3sqiL8u3vbg",
+    "maps_url": "https://maps.google.com/?cid=13311998156882496222",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJx5zzfhRJO4gR3sqiL8u3vbg",
+    "rating": 5,
+    "reviews": 3,
+    "address": "12375 Telegraph Rd, Taylor, MI 48180, USA",
+    "city": "Taylor",
+    "state": "MI",
+    "contacts": [
+      "Slava Malchenko"
+    ],
+    "enriched_at": "2026-03-20"
   },
   {
     "company": "Colorado Special Olympics",
@@ -2940,5 +2985,65 @@
       "Linden White Cowan"
     ],
     "enriched_at": "2026-03-19"
+  },
+  {
+    "company": "Litehouse Foods",
+    "place_id": "ChIJ7xSfo1hbGIgRUxvrF7P7m6s",
+    "maps_url": "https://maps.google.com/?cid=12365753948494830419",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJ7xSfo1hbGIgRUxvrF7P7m6s",
+    "rating": 3.8,
+    "reviews": 117,
+    "address": "1400 Foreman St SE, Lowell, MI 49331, USA",
+    "city": "Lowell",
+    "state": "MI",
+    "contacts": [
+      "Chris Blanford"
+    ],
+    "enriched_at": "2026-03-20"
+  },
+  {
+    "company": "Littler Mendelson",
+    "place_id": "ChIJS5xlLiYtO4gRQnJjXwxLHu8",
+    "maps_url": "https://maps.google.com/?cid=17230291740878139970",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJS5xlLiYtO4gRQnJjXwxLHu8",
+    "rating": null,
+    "reviews": null,
+    "address": "500 Woodward Ave Suite 2600, Detroit, MI 48226, USA",
+    "city": "Detroit",
+    "state": "MI",
+    "contacts": [
+      "Gina Kunkle"
+    ],
+    "enriched_at": "2026-03-20"
+  },
+  {
+    "company": "Livefront",
+    "place_id": "ChIJnQYwWXJ5I4gR0EQ4_yQHjPk",
+    "maps_url": "https://maps.google.com/?cid=17981755267665642704",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJnQYwWXJ5I4gR0EQ4_yQHjPk",
+    "rating": 3.2,
+    "reviews": 9,
+    "address": "6083 Taylor Dr, Flint, MI 48507, USA",
+    "city": "Flint",
+    "state": "MI",
+    "contacts": [
+      "Mike Bollinger"
+    ],
+    "enriched_at": "2026-03-20"
+  },
+  {
+    "company": "LoVasco",
+    "place_id": "ChIJXaybSyUtO4gRoZ8xcHnpKhU",
+    "maps_url": "https://maps.google.com/?cid=1525288131600949153",
+    "write_review_url": "https://search.google.com/local/writereview?placeid=ChIJXaybSyUtO4gRoZ8xcHnpKhU",
+    "rating": 4.3,
+    "reviews": 3,
+    "address": "1 Woodward Ave #1500, Detroit, MI 48226, USA",
+    "city": "Detroit",
+    "state": "MI",
+    "contacts": [
+      "Michael Iley"
+    ],
+    "enriched_at": "2026-03-20"
   }
 ]
